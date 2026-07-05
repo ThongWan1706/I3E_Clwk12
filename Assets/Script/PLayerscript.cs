@@ -16,6 +16,8 @@ public class PLayerscript : MonoBehaviour
             currentcoin = coin;
             currentcoin.highlight();
 
+            //hchw0ehfw0ufgudgwuegfwfgfe0eugf
+
 
         }
     }
