@@ -6,6 +6,9 @@ TagManager:
   tags:
   - CinemachineTarget
   - Collectible
+  - GoalArea
+  - Ball
+  - GiftBox
   layers:
   - Default
   - TransparentFX
